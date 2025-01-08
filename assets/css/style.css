@@ -168,7 +168,9 @@ textarea {
 
 button { cursor: pointer; }
 
-address { font-style: normal; }
+address { font-style: normal; 
+
+}
 
 html {
   font-size: 10px;
@@ -622,7 +624,7 @@ body.nav-active { overflow: hidden; }
   #TOPBAR
 \*-----------------------------------*/
 
-.topbar { display: none; }
+
 
 
 
@@ -862,7 +864,8 @@ body.nav-active { overflow: hidden; }
 
 .hero .section-subtitle::after { margin-block: 14px 20px; }
 
-.hero-text { margin-block: 10px 40px; }
+.hero-text { margin-block: 10px 40px; 
+}
 
 .hero .btn { margin-inline: auto; }
 
