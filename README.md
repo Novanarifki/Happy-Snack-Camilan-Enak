@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.jpg "Desktop Demo")
+![Grilli Desktop Demo](./readme-images/dekstop.jpg "Desktop Demo")
 
 ### Prerequisites
 
